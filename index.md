@@ -1,4 +1,4 @@
-# Neo-Screeds
+# Screeds
 
 A collection of essays and discussion on Neo-Urbit
 
